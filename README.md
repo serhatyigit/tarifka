@@ -1,5 +1,5 @@
 # tarifka
-Food listing application example with react navigation and custom hook.
+Meal listing application example with react navigation and custom hook.
 
 <img src="https://github.com/serhatyigit/tarifka/blob/main/Categories.png" width="376" height="672">
 
