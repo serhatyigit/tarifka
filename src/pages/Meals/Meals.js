@@ -1,4 +1,4 @@
-import {FlatList, View, Text} from 'react-native';
+import {FlatList, View} from 'react-native';
 import React from 'react';
 import useFetch from '../../hooks/useFetch';
 import MealCard from '../../components/MealCard';
@@ -25,6 +25,3 @@ const Meals = ({navigation, route}) => {
 };
 
 export default Meals;
-
-// strMeal: "Chicken Alfredo Primavera"
-// strMealThumb:'url'
